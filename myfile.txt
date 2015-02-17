@@ -2,3 +2,5 @@
 add:변경사항 Issue1
 
 commit:인덱스 상태를 기록하기 Issue2
+pull:원격저장소의 내용을 가져오기 Issue3
+
